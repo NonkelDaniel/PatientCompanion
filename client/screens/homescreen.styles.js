@@ -9,7 +9,6 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.BACKGROUND,
   },
   greeting: {
-    position: 'absolute',
     left: '5.6%',
     right: '32.8%',
     top: '3.22%',
@@ -34,6 +33,10 @@ const styles = StyleSheet.create({
     fontSize: 20,
     lineHeight: 24,
     color: 'rgba(255, 255, 255, 0.7)',
+  },
+  scroller: {
+    marginLeft: -24,
+    marginTop: 16,
   },
 });
 

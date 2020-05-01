@@ -6,6 +6,7 @@ const COMMUNITY = require('./community.png');
 const INFO = require('./info.png');
 const TRIAL = require('./trial.png');
 const TIP = require('./tip.png');
+const BULB = require('./bulb.png');
 
 const ASSETS = {
   HOME_ICON,
@@ -15,6 +16,7 @@ const ASSETS = {
   INFO,
   TRIAL,
   TIP,
+  BULB,
 };
 
 export default ASSETS;
