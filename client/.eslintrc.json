@@ -25,6 +25,8 @@
         "react"
     ],
     "rules": {
-        "react/jsx-filename-extension": 0
+        "react/jsx-filename-extension": 0,
+        "linebreak-style":"off",
+        "jsx-quotes":"off"
     }
 }
